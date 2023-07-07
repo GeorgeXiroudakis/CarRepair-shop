@@ -1,6 +1,3 @@
-//this program makes a class of a car and its problems and used them in the main
-
-
 #include <iostream>
 using namespace std;
 
